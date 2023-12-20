@@ -1,0 +1,10 @@
+C:\Users\DEICIDA\source\repos\Inventory_ManagementSystem\bin\Debug\Inventory_ManagementSystem.exe.config
+C:\Users\DEICIDA\source\repos\Inventory_ManagementSystem\bin\Debug\Inventory_ManagementSystem.exe
+C:\Users\DEICIDA\source\repos\Inventory_ManagementSystem\bin\Debug\Inventory_ManagementSystem.pdb
+C:\Users\DEICIDA\source\repos\Inventory_ManagementSystem\obj\Debug\Inventory_ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\DEICIDA\source\repos\Inventory_ManagementSystem\obj\Debug\Inventory_ManagementSystem.InventoryManager.resources
+C:\Users\DEICIDA\source\repos\Inventory_ManagementSystem\obj\Debug\Inventory_ManagementSystem.Properties.Resources.resources
+C:\Users\DEICIDA\source\repos\Inventory_ManagementSystem\obj\Debug\Inventory_ManagementSystem.csproj.GenerateResource.cache
+C:\Users\DEICIDA\source\repos\Inventory_ManagementSystem\obj\Debug\Inventory_ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\DEICIDA\source\repos\Inventory_ManagementSystem\obj\Debug\Inventory_ManagementSystem.exe
+C:\Users\DEICIDA\source\repos\Inventory_ManagementSystem\obj\Debug\Inventory_ManagementSystem.pdb
